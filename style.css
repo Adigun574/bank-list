@@ -1,0 +1,75 @@
+.banks{
+    padding: 500px 20rem;
+}
+.bank-card{
+    border: 1px solid #8c8c8c;
+    border-radius: 3px;
+    padding:10px 30px;
+    margin-bottom: 30px;
+    color:#8c8c8c;  
+}
+.card-content{
+    display: flex;
+}
+.bank-logo{
+    margin-top: 20px;
+    margin-right: 40px;
+}
+img {
+    width:  150px;
+    height: 100px;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .banks{
+        padding: 0 0.5rem;
+    }
+    .bank-card{
+        padding:0.5rem 1rem;
+    }
+    .card-content{
+        flex-direction: column;
+     }
+    .bank-logo{
+        margin-right: 0;
+        text-align: center;
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    .banks{
+        padding: 0 3rem;
+    }
+    .bank-card{
+        padding:0.5rem 1rem;
+    }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    .banks{
+        padding: 0 3rem;
+    }
+    .bank-card{
+        padding:0.5rem 1rem;
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    .banks{
+        padding: 0 10rem;
+    }
+    .bank-card{
+        padding:0.5rem 1rem;
+    }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    .banks{
+        padding: 0 20rem;
+    }
+}

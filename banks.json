@@ -1,0 +1,52 @@
+[
+    {
+        "name":"Sterling Bank",
+        "type":"Commercial",
+        "address":"Sterling Towers, 20 Marina, Lagos Island, Lagos",
+        "management":{
+            "chairman":"Asue Ighodalo",
+            "md":"Abubakar Suleiman"
+        },
+        "logo":"https://businesspost.ng/wp-content/uploads/2019/07/sterling-bank-logo.png"
+    },
+    {
+        "name":"First Bank",
+        "type":"Commercial",
+        "address":"Samuel Asabia House 35 Marina P.O. Box 5216, Lagos, Nigeria",
+        "management":{
+            "chairman":"Tunde Hassan-Odukale",
+            "md":"Adesola Kazeem Adeduntan"
+        },
+        "logo":"https://www.firstbanknigeria.com/wp-content/uploads/2020/01/First-Bank.svg"
+    },
+    {
+        "name":"Abbey Mortgage Bank",
+        "type":"Mortgage",
+        "address":"23 Karimu Kotun St, Victoria Island 101241, Lagos",
+        "management":{
+            "chairman":"Mazi Emmanuel Kanu",
+            "md":"Madu Hamman"
+        },
+        "logo":"https://www.abbeymortgagebank.com/assets/images/logo2.svg"
+    },
+    {
+        "name":"Zenith Bank",
+        "type":"Commercial",
+        "address":"87 Ajose Adeogun St, Victoria Island 106104, Lagos",
+        "management":{
+            "chairman":"Jim Ovia",
+            "md":"Ebenezer N. Onyeagwu"
+        },
+        "logo":"https://www.zenithbank.com/media/2077/zenith-bank-logo_2.png"
+    },
+    {
+        "name":"Globus Bank",
+        "type":"Commercial",
+        "address":"6, Adeyemo Alakija Street, Victoria Island, Lagos",
+        "management":{
+            "chairman":"Peter Amangbo",
+            "md":"Elias IGBINAKENZUA"
+        },
+        "logo":"https://www.globusbank.com/Images/Globus%20Logo.svg"
+    }
+]
